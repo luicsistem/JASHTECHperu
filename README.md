@@ -1,2 +1,2 @@
-# tech_service_github
+# JASTHECHperu_github
 servicio técnico informático
